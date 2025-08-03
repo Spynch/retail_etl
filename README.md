@@ -33,3 +33,6 @@ flowchart TD
 6. **Soda проверка трансформации** — контроль качества после трансформаций.
 7. **dbt отчёт** — выполняются модели `models/report`.
 8. **Soda финальная проверка** — завершающий контроль данных.
+
+## Дашборд Metabase
+<img width="1465" height="855" alt="image" src="https://github.com/user-attachments/assets/037bac44-b5e9-434c-b2a7-7710b4510574" />
