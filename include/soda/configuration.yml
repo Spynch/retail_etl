@@ -8,3 +8,7 @@ data_source retail:
     - https://www.googleapis.com/auth/drive
     project_id: 'airflow-etl-467821'
     dataset: retail
+soda_cloud:
+  host: cloud.soda.io
+  api_key_id: random_key
+  api_key_secret: secret_key
